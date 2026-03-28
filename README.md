@@ -12,6 +12,7 @@ A fully customized, graphical motioned personal website built to showcase academ
 
 Focus Areas: Web Development, UI/UX, and highlighting core competencies in Python, C++, and AI/Machine Learning.
 Live Demo: (Add link to your hosted portfolio here)
+
 3. Explore Coding & Collaboration Platforms
 An exploration of industry-standard version control and collaborative coding environments. This section covers best practices for using platforms like GitHub, managing repositories, writing effective commit messages, and handling pull requests to ensure seamless teamwork on development projects.
 
